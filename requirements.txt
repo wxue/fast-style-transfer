@@ -1,0 +1,29 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file requirements.txt
+# platform: osx-64
+certifi=2018.1.18=py27_0
+freetype=2.8=h12048fb_1
+intel-openmp=2018.0.0=h8158457_8
+jpeg=9b=he5867d9_2
+libcxx=4.0.1=h579ed51_0
+libcxxabi=4.0.1=hebd6815_0
+libedit=3.1=hb4e282d_0
+libgfortran=3.0.1=h93005f0_2
+libpng=1.6.34=he12f830_0
+libtiff=4.0.9=h0dac147_0
+mkl=2018.0.1=hfbd8650_4
+ncurses=6.0=hd04f020_2
+numpy=1.14.1=py27ha726252_2
+olefile=0.45.1=py27_0
+openssl=1.0.1k=1
+pillow=4.2.1=py27h2cf1d5f_0
+pip=9.0.1=py27_5
+python=2.7.9=1
+readline=6.2=2
+scipy=1.0.0=py27h793f721_0
+setuptools=38.5.1=py27_0
+sqlite=3.22.0=h3efe00b_0
+tk=8.5.18=0
+wheel=0.30.0=py27h677a027_1
+xz=5.2.3=h0278029_2
+zlib=1.2.11=hf3cbc9b_2
